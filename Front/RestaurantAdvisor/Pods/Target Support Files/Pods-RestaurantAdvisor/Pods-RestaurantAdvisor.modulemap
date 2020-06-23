@@ -1,0 +1,6 @@
+framework module Pods_RestaurantAdvisor {
+  umbrella header "Pods-RestaurantAdvisor-umbrella.h"
+
+  export *
+  module * { export * }
+}
